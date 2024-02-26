@@ -18,7 +18,7 @@ const sliderMainParticle = () => (
     <div className="row align-items-center">
       <div className="col-md-6">
         <h6 style={{ color: 'orange', fontSize: '26px', fontWeight: 'bold' }}>
-          <span className="text-uppercase">Introducing...</span>
+          <span className="text-uppercase">Introducing</span>
         </h6>
         <Reveal className='onStep' keyframes={fadeInUp} delay={300} duration={900} triggerOnce>
           <h1 style={{ color: 'white', fontSize: '56px', fontWeight: 'bold' }}>starkBET</h1>
