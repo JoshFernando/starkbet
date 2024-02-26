@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 In the project directory, you can run:
 
@@ -37,3 +38,5 @@ This app uses verified IoT data to mint NFTs for users that will store an image 
  to deploy to kovan<br/>
 
 initially this repo will contain solidity contracts to use as guides in building the starknet contracts, but eventually everything switched over to starknet and cairo is the goal!
+=======
+
